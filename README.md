@@ -37,25 +37,11 @@ SRS is particularly useful for schools and educational institutions to streamlin
 - View a list of all student records.
 - User-friendly graphical interface.
 
-## Installation
 
-To run SRS on your local machine, follow these steps:
-
-1. Clone the repository to your local machine:
-git clone https://github.com/Mikiyas-Meles-Assefa/student-registration-system-for-schools.git
-
-
-2. Navigate to the project directory:
-
-
-3. Run the application:
-
-
-Make sure you have Python installed on your system.
 
 ## Usage
 
-- Launch the application using the provided installation instructions.
+- Launch the application
 - Add new student records by entering their information.
 - Edit and update student records as needed.
 - Search for student records by ID to view their details.
@@ -74,6 +60,6 @@ This project was developed using the Python Tkinter library.
 For any inquiries or suggestions, please contact:
 
 - Mikiyas Meles Assefa
-- Email: mikiyasmeles.302419.cs@gmail.com
+- Email: massefa@andrew.cmu.edu
 - GitHub: [Mikiyas-Meles-Assefa](https://github.com/Mikiyas-Meles-Assefa)
 
